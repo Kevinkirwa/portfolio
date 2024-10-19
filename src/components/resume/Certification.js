@@ -36,12 +36,12 @@ const Certification = () => {
             <p className="text-sm text-gray-500 italic">Click to view certificate</p>
           </a>
 
-          <a href="https://www.udemy.com/course/css-the-complete-guide" target="_blank" rel="noopener noreferrer">
+          <a href="https://udemy-certificate.s3.amazonaws.com/image/UC-bfc9232f-50f0-4637-99cd-992fa1e29723.jpg?v=1729087063000" target="_blank" rel="noopener noreferrer">
             <ResumeCard
-              title="CSS - The Complete Guide 2024"
-              subTitle="Udemy - Issued: February 2024"
+              title="Build a Backend Rest API with Node Js From Scratch"
+              subTitle="Udemy - Issued: Oct 2024"
               result="Certificate of Completion"
-              des="I mastered CSS styling techniques, responsive design, Flexbox, and Grid layout systems to create visually appealing websites."
+              des="This course taught me how to build a backend REST API using Node.js, covering key concepts like routing, middleware, authentication, and database integration."
             />
             <p className="text-sm text-gray-500 italic">Click to view certificate</p>
           </a>

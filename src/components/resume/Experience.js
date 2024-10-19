@@ -22,17 +22,18 @@ const Experience = () => {
             des="Google's hiring process is an important part of our culture. Googlers care deeply about their teams and the people who make them up."
           />*/}
           <ResumeCard
-            title="Web Developer & Trainer"
-            subTitle="Apple Developer Team - (2012 - 2016)"
-            result="MALAYSIA"
-            des="A popular destination with a growing number of highly qualified homegrown graduates, it's true that securing a role in Malaysia isn't easy."
-          />
-          <ResumeCard
+  title="Content Editor"
+  subTitle="Construction Review Online (2023 - Present)"
+  result="KENYA"
+  des="As a content editor at Construction Review Online, I oversee the production and refinement of articles, ensuring clarity, accuracy, and relevance to the construction industry. I manage a team of writers, collaborate with industry experts, and curate high-quality content tailored to our diverse audience. My role includes editing technical documents, researching current trends, and ensuring SEO optimization for better visibility online."
+/>
+
+          {/*<ResumeCard
             title="Front-end Developer"
             subTitle="Nike - (2020 - 2011)"
             result="Oman"
             des="The Oman economy has grown strongly over recent years, having transformed itself from a producer and innovation-based economy."
-          />
+          />*/}
         </div>
       </div>
       <div>
@@ -47,12 +48,12 @@ const Experience = () => {
             result="DHAKA"
             des="The training provided by universities in order to prepare people to work in various sectors of the economy or areas of culture."
           />*/}
-          <ResumeCard
+          {/*<ResumeCard
             title="Web Developer and Instructor"
             subTitle="SuperKing College (2010 - 2014)"
             result="CANADA"
             des="Higher education is tertiary education leading to award of an academic degree. Higher education, also called post-secondary education."
-          />
+          />*/}
           {/*<ResumeCard
             title="School Teacher"
             subTitle="Kingstar Secondary School (2001 - 2010)"
